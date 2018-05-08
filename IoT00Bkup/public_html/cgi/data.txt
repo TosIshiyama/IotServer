@@ -1,0 +1,33 @@
+ name = hoge  /  image = image.jpg  / 
+ image = image.jpg  / 
+
+
+
+
+
+
+
+ keywords = aaaaa  / 
+ a = 12345  /  b = 00000  / 
+
+ a = 55555  /  b = 22222  / 
+ a = 55555  /  b = 22222  / 
+
+
+
+
+
+
+
+
+ a = 55555  /  b = 22222  / 
+
+
+
+
+
+ a = 123  /  b = 123  /  c = 123  / 
+
+
+
+
