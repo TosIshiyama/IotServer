@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <!--jqueryを利用しない場合、jquery.min.jsは不要です。-->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.3.0/Chart.min.js"></script>
+    <script src="mychart100.js"></script>
+
+    <title>chart100</title>
+</head>
+<body>
+<!--ここにグラフが挿入されます-->
+<div style="width: 100%; height: 80%;">
+    <canvas id="myChart" style="width: 100%; height: 50%;"></canvas>
+</div>
+<!--ボタンを押すとリロードします。-->
+<input type="button" value="relaod" onclick="main()"/>
+<!--ここにCSVデータが挿入されます-->
+<div id="rawdata"></div>
+</body>
+</html>
